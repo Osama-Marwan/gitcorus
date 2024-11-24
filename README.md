@@ -1,2 +1,0 @@
-# gitcorus
-for elzero web
